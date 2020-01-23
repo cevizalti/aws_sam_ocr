@@ -1,5 +1,5 @@
 # aws_sam_ocr
-This is an AWS SAM app that uses Rekognition APIs to detect text in S3 Objects and stores labels in DynamoDB.
+KC This is an AWS SAM app that uses Rekognition APIs to detect text in S3 Objects and stores labels in DynamoDB.
 
 ## Project structure
 Here is a brief overview of what we have generated for you.
